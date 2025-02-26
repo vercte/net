@@ -28,6 +28,7 @@ main {
     padding-top: 2em;
     padding-left: 1em;
     padding-right: 1em;
+    padding-bottom: 20vh;
 
     display: flex;
     justify-content: center;

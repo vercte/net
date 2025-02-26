@@ -10,10 +10,10 @@
 <svelte:head>
     <title>vercte.net</title>
     <meta name="author" content="Vercte" />
-    <meta name="description" content="Vercte's website with contact information and projects" />
+    <meta name="description" content="Hello Gamers. this is my website" />
     <meta name="keywords" content="personal, linkpage, linktree, vercte" />
 
-    <meta name="theme-color" content="#08f" />
+    <meta name="theme-color" content="#008cff" />
     <meta name="color-scheme" content="only light" />
 </svelte:head>
 
